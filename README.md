@@ -3,7 +3,7 @@
   <p align="Left">
     <h1>Voronoi Stippling Site Header</h1> 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/jcbbuller/voronoi_stippling_header/index.htmlBest-README-Template">View Demo</a>
   </p>
   
 <!-- TABLE OF CONTENTS -->
@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/jcbbuller/voronoi_stippling_header/readme_example.jpg) 
 
 I ran into this really cool dotted effect called <a href="https://observablehq.com/@mbostock/voronoi-stippling" target="_blank"> Voronoi Stippling while working as a Strategist in San Francisco. I really loved the artistic effect it makes and wanted to use it as a heaer on my own site. 
 
@@ -132,7 +132,7 @@ I'm using this space to list resources I found helpful and would like to give cr
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: readme_example.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
