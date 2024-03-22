@@ -3,7 +3,7 @@
   <p align="Left">
     <h1>Voronoi Stippling Site Header</h1> 
     <br />
-    <a href="https://github.com/jcbbuller/voronoi_stippling_header/index.htmlBest-README-Template">View Demo</a>
+    <a href="https://github.com/jcbbuller/voronoi_stippling_header/index.html">View Demo</a>
   </p>
   
 <!-- TABLE OF CONTENTS -->
