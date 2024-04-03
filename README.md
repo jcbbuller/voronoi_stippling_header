@@ -75,7 +75,7 @@ Based on my experience, this code likes very vivid, black and white photos. Expe
 Here is how to switch photos within the code.
 
 1. Look for the "dottedheader_" javascript files within the "assets" folder.
-   <img src="https://github.com/jcbbuller/voronoi_stippling_header/readme_example_images/readme_example_1.jpg" alt="Image showing the dottedheader javascript files in the folder" width="250" height="auto" />
+   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_1.jpg" alt="Image showing the dottedheader javascript files in the folder" width="250" height="auto" />
 
    [![Product Name Screen Shot][product-screenshot-1]](https://github.com/jcbbuller/voronoi_stippling_header/readme_examples/readme_example_1.jpg) 
 3. On line 116 you'll see a file path to the image being used to create the design. You can change this path to whatever new image you want to use, or you can keep the same naming structure and just replace the image.
