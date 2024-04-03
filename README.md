@@ -147,7 +147,13 @@ I'm using this space to list resources I found helpful and would like to give cr
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: readme_example.jpg
+[product-screenshot-1]: readme_images/readme_example_1.jpg
+[product-screenshot-2]: readme_images/readme_example_2.jpg
+[product-screenshot-3]: readme_images/readme_example_3.jpg
+[product-screenshot-4]: readme_images/readme_example_4.jpg
+
+
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
