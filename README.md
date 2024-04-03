@@ -79,7 +79,7 @@ Here is how to switch photos within the code.
 2. On line 116 you'll see a file path to the image being used to create the design. You can change this path to whatever new image you want to use, or you can keep the same naming structure and just replace the image.
    [![Product Name Screen Shot][product-screenshot-2]](https://github.com/jcbbuller/voronoi_stippling_header/readme_examples/readme_example_2.jpg) 
 3. Each .js file has different file paths to different images. They are then linked to specific sections within the index.html and generate those individual designs in those sections.
-   [![Product Name Screen Shot][product-screenshot-2]](https://github.com/jcbbuller/voronoi_stippling_header/readme_examples/readme_example_3.jpg) 
+   [![Product Name Screen Shot][product-screenshot-3]](https://github.com/jcbbuller/voronoi_stippling_header/readme_examples/readme_example_3.jpg) 
 
 
 
