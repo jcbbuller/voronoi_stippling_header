@@ -72,13 +72,20 @@ was starting out.
 
 Based on my experience, this code likes very vivid, black and white photos. Experiement with high contrast photos with a lot of empty space - the dots will cluster to the darker, more vivid areas... I clearly know what I am talking about. 
 
-Here is how to switch photos within the code...
+Here is how to switch photos within the code.
+
+1. Look for the "dottedheader_" javascript files within the "assets" folder.
+2. On line 116 you'll see a file path to the image being used to create the design. You can change this path to whatever new image you want to use, or you can keep the same naming structure and just replace the image.
+3. Each .js file has different file paths to different images. They are then linked to specific sections within the index.html and generate those individual designs in those sections. 
 
 
 ### Colors
 
-Here is how to adjust the colors of the design within the code... 
+Here is how to adjust the colors of the design within the code.
 
+1. Look for the "dottedheader_" javascript files within the "assets" folder.
+2. On line 9 and 17 you'll see hex codes for certain color swatches. If you plug in new hex codes here you can adjust what color is used for the background of the image and what color is used for the dots. I found that high contrasting colors work best.
+   
 
 <!-- CONTRIBUTING -->
 ## Contributing
