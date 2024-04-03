@@ -61,15 +61,23 @@ To get a local copy up and running follow these simple example steps.
 
 ### Download
 
-Downloading the files.
+I'm going to do write in a way that I wish someone would have written it to me when I 
+was starting out. 
 
+1. Go up to the green "code" button in the upper right and select "Download Zip".
+2. Go to your computer's download folder and decompress the zip.
+3. In there you will see the index file and assets needed to view the example in your favorite IDE.
+   
 ### Photos
 
-This section will talk about how to update/change the photos used to render the effect. 
+Based on my experience, this code likes very vivid, black and white photos. Experiement with high contrast photos with a lot of empty space - the dots will cluster to the darker, more vivid areas... I clearly know what I am talking about. 
+
+Here is how to switch photos within the code...
+
 
 ### Colors
 
-This section talks about how to update the colors for specific renders.
+Here is how to adjust the colors of the design within the code... 
 
 
 <!-- CONTRIBUTING -->
