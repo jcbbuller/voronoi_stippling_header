@@ -75,11 +75,11 @@ Based on my experience, this code likes very vivid, black and white photos. Expe
 Here is how to switch photos within the code.
 
 1. Look for the "dottedheader_" javascript files within the "assets" folder.<br/>
-   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_1.jpg" alt="Image showing the dottedheader javascript files in the folder" width="350" height="auto" padding-top="20px" />
+   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_1.jpg" alt="Image showing the dottedheader javascript files in the folder" width="350" height="auto" margin-top="25px" />
 2. On line 116 you'll see a file path to the image being used to create the design. You can change this path to whatever new image you want to use, or you can keep the same naming structure and just replace the image.<br/>
-   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_2.jpg" alt="Image showing the dottedheader javascript files in the folder" width="550" height="auto" padding-top="20px" />
+   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_2.jpg" alt="Image showing the dottedheader javascript files in the folder" width="550" height="auto" margin-top="25px" />
 4. Each .js file has different file paths to different images. They are then linked to specific sections within the index.html and generate those individual designs in those sections.<br/>
-   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_3.jpg" alt="Image showing the dottedheader javascript files in the folder" width="550" height="auto" padding-top="20px" />
+   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_3.jpg" alt="Image showing the dottedheader javascript files in the folder" width="550" height="auto" margin-top="25px" />
 
 
 
@@ -87,9 +87,11 @@ Here is how to switch photos within the code.
 
 Here is how to adjust the colors of the design within the code.
 
-1. Look for the "dottedheader_" javascript files within the "assets" folder.
-2. On line 9 and 17 you'll see hex codes for certain color swatches. If you plug in new hex codes here you can adjust what color is used for the background of the image and what color is used for the dots. I found that high contrasting colors work best.
-   
+1. Look for the "dottedheader_" javascript files within the "assets" folder. <br/>
+   <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_1.jpg" alt="Image showing the dottedheader javascript files in the folder" width="350" height="auto" margin-top="25px" />
+2. On line 9 and 17 you'll see hex codes for certain color swatches. If you plug in new hex codes here you can adjust what color is used for the background of the image and what color is used for the dots. I found that high contrasting colors work best. <br/>
+         <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_4.jpg" alt="Image showing the dottedheader javascript files in the folder" width="350" height="auto" margin-top="25px" /> <br/>
+            <img src="https://github.com/jcbbuller/voronoi_stippling_header/blob/a3c1f334eafd783a3ba71ba4b22f0af08e796cdc/readme_example_images/readme_example_5.jpg" alt="Image showing the dottedheader javascript files in the folder" width="350" height="auto" margin-top="25px" />
 
 <!-- CONTRIBUTING -->
 ## Contributing
