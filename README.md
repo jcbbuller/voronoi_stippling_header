@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/jcbbuller/voronoi_stippling_header/readme_example.jpg) 
+[![Product Name Screen Shot][product-screenshot-main]](https://github.com/jcbbuller/voronoi_stippling_header/readme_examples/readme_example_main.jpg) 
 
 I ran into this really cool dotted effect called <a href="https://observablehq.com/@mbostock/voronoi-stippling" target="_blank"> Voronoi Stippling while working as a Strategist in San Francisco. I really loved the artistic effect it makes and wanted to use it as a heaer on my own site. 
 
@@ -147,7 +147,7 @@ I'm using this space to list resources I found helpful and would like to give cr
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot-main]: readme_example_images/main_example.jpg
+[product-screenshot-main]: readme_example_images/readme_example_main.jpg
 [product-screenshot-1]: readme_example_images/readme_example_1.jpg
 [product-screenshot-2]: readme_example_images/readme_example_2.jpg
 [product-screenshot-3]: readme_example_images/readme_example_3.jpg
