@@ -75,8 +75,8 @@ Based on my experience, this code likes very vivid, black and white photos. Expe
 Here is how to switch photos within the code.
 
 1. Look for the "dottedheader_" javascript files within the "assets" folder.
-2. On line 116 you'll see a file path to the image being used to create the design. You can change this path to whatever new image you want to use, or you can keep the same naming structure and just replace the image.
-3. Each .js file has different file paths to different images. They are then linked to specific sections within the index.html and generate those individual designs in those sections. 
+3. On line 116 you'll see a file path to the image being used to create the design. You can change this path to whatever new image you want to use, or you can keep the same naming structure and just replace the image.
+4. Each .js file has different file paths to different images. They are then linked to specific sections within the index.html and generate those individual designs in those sections. 
 
 
 ### Colors
@@ -117,7 +117,7 @@ Distributed under the Unlicense license. See `LICENSE.txt` for more information.
 
 Jacob Buller - [@jcbbuller](https://instagram/jcbbuller)
 
-Project Link: [https://github.com/jcbbuller/voronoi_stippling_header](https://github.com/jcbbuller/voronoi_stippling_header)
+Project Link - [https://github.com/jcbbuller/voronoi_stippling_header](https://github.com/jcbbuller/voronoi_stippling_header)
 
 
 
@@ -147,13 +147,12 @@ I'm using this space to list resources I found helpful and would like to give cr
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot-1]: readme_images/readme_example_1.jpg
-[product-screenshot-2]: readme_images/readme_example_2.jpg
-[product-screenshot-3]: readme_images/readme_example_3.jpg
-[product-screenshot-4]: readme_images/readme_example_4.jpg
-
-
-
+[product-screenshot-main]: readme_example_images/main_example.jpg
+[product-screenshot-1]: readme_example_images/readme_example_1.jpg
+[product-screenshot-2]: readme_example_images/readme_example_2.jpg
+[product-screenshot-3]: readme_example_images/readme_example_3.jpg
+[product-screenshot-4]: readme_example_images/readme_example_4.jpg
+[product-screenshot-5]: readme_example_images/readme_example_5.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
