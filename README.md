@@ -48,9 +48,7 @@ Once I got a pretty-good version of it up on my site, I made this repository so 
 
 ### Built With
 
-The project uses Bootstrap and the Voronoi Stippling technique.
-
-Voronoi Stippling = [[https://observablehq.com/@mbostock/voronoi-stippling]]
+The project uses Bootstrap and the <a href="https://observablehq.com/@mbostock/voronoi-stippling" target="blank"> Voronoi Stippling</a> technique created by <a href="https://observablehq.com/@mbostock" target="blank> Mike Bostock </a> using <a href="https://d3js.org/" target="blank">Observable's D3.js framework</a>.
 
 
 <!-- GETTING STARTED -->
