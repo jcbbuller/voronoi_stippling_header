@@ -39,7 +39,7 @@
 
 [![Product Name Screen Shot][product-screenshot-main]](https://github.com/jcbbuller/voronoi_stippling_header/readme_examples/readme_example_main.jpg) 
 
-I ran into this really cool dotted effect called <a href="https://observablehq.com/@mbostock/voronoi-stippling" target="_blank"> Voronoi Stippling while working as a Strategist in San Francisco. I really loved the artistic effect it makes and wanted to use it as a heaer on my own site. 
+I ran into this really cool dotted effect called <a href="https://observablehq.com/@mbostock/voronoi-stippling" target="_blank"> Voronoi Stippling </a> while working as a Strategist in San Francisco. I really loved the artistic effect it makes and wanted to use it as a heaer on my own site. 
 
 Once I got a pretty-good version of it up on my site, I made this repository so others can use or build something better with my code. You may suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
@@ -50,7 +50,7 @@ Once I got a pretty-good version of it up on my site, I made this repository so 
 
 The project uses Bootstrap and the Voronoi Stippling technique.
 
-Voronoi Stippling = [https://observablehq.com/@mbostock/voronoi-stippling]]
+Voronoi Stippling = [[https://observablehq.com/@mbostock/voronoi-stippling]]
 
 
 <!-- GETTING STARTED -->
